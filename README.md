@@ -7,6 +7,8 @@ the first font in alphabetical order that has a glyph for the character to displ
 
 Simply installing all fonts included in this repository will temporarily fix the incorrect font displaying issue.  
 
+(You will need to restart Telegram Desktop app after install the fonts.)
+
 ## What exactly does this do?
 
 After you install all fonts included in this repository,  
