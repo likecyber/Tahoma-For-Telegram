@@ -1,4 +1,4 @@
-# Tahoma-For-Telegram
+# Tahoma For Telegram
 
 This repository is a temporary quick fix for incorrect font displaying on Telegram Desktop v4.6.0 for Windows.  
 
